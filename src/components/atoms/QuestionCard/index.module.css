@@ -1,0 +1,17 @@
+.QuestionCard {
+  background-color: #F0F4F8;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.QuestionCardTitle {
+  font-size: 14px;
+  color: #007AFF;
+  margin-bottom: 8px;
+}
+
+.QuestionCardContent {
+  font-size: 16px;
+  font-weight: bold;
+}
