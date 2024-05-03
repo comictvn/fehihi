@@ -1,0 +1,51 @@
+.QuestionCardContainer {
+  background-color: #F0F8FF;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 24px;
+}
+
+.QuestionCardText {
+  color: #333;
+  font-size: 16px;
+}
+
+.QuestionCardContent {
+  background-color: #FFF;
+  border-radius: 8px;
+  padding: 16px;
+  margin-top: 16px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.QuestionCardDiagram {
+  background-color: #FFD8D8;
+  border-radius: 8px;
+  padding: 8px;
+  margin-top: 16px;
+  text-align: center;
+}
+
+.QuestionCardDiagramText {
+  color: #333;
+  font-size: 14px;
+}
+
+.QuestionCardImageContainer {
+  background: #EEE;
+  width: 100%;
+  padding-top: 56.25%;
+  position: relative;
+  border-radius: 8px;
+  margin-top: 8px;
+}
+
+.QuestionCardImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
