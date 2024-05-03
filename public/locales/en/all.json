@@ -23,5 +23,13 @@
   "500": {
     "title": "System Error",
     "description": "Description about system error"
+  },
+  "pill-knowledge-test": {
+    "question": "What fits in the blank?",
+    "diagramText": "with diagram",
+    "answer1": "Answer 1 text",
+    "answer2": "Answer 2 text",
+    "answer3": "Answer 3 text",
+    "answer4": "Answer 4 text"
   }
 }
