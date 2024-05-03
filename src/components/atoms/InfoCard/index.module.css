@@ -1,0 +1,18 @@
+.infoCard {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  margin-bottom: 8px;
+}
+
+.infoImage {
+  margin-right: 8px;
+  width: 24px;
+  height: 24px;
+}
+
+.infoText {
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: 'Arial', sans-serif;
+}

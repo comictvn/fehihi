@@ -1,5 +1,13 @@
 {
   "common": {
+    "faq": {
+      "search_placeholder": "Type your question term here?",
+      "info_card_text_1": "If there is any bleeding, even a small amount, please consult an ophthalmologist as soon as possible.",
+      "info_card_text_2": "If you feel any distortion in your vision or if the bleeding is more than usual, please consult an ophthalmologist.",
+      "paragraph_1": "The first sheet is until the 5th day of menstruation, and from the second sheet onwards, start taking it after finishing the previous sheet.",
+      "paragraph_2": "Set an alarm so that you can take it at the same time every day.",
+      "learn_more": "Learn More"
+    },
     "loading": "Loading...",
     "go_to_home": "Go to home",
     "menu": {

@@ -1,0 +1,22 @@
+.pageContainer {
+  font-family: 'Arial', sans-serif;
+  padding: 16px;
+}
+
+.infoCardContainer {
+  margin-bottom: 16px;
+}
+
+.paragraphContainer {
+  margin-bottom: 16px;
+}
+
+.learnMoreButton {
+  background: #FF9500;
+  color: white;
+  border: none;
+  padding: 16px;
+  border-radius: 30px;
+  width: 100%;
+  font-size: 16px;
+}
