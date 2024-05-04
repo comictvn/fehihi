@@ -23,5 +23,13 @@
   "500": {
     "title": "System Error",
     "description": "Description about system error"
+  },
+  "pillKnowledgeTestPage": {
+    "step": "Step {{current}}/{{total}}",
+    "question": "What symptoms indicate you should stop taking the pill?",
+    "answer1": "Bleeding for more than two weeks",
+    "answer2": "Extremely light menstrual bleeding",
+    "answer3": "Numbness in one leg only",
+    "answer4": "Symptoms similar to morning sickness"
   }
 }

@@ -1,0 +1,17 @@
+.pageContainer {
+  font-family: 'Arial', sans-serif;
+  background-color: #fff;
+  padding: 16px;
+}
+
+.answers {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 16px;
+}
+
+@media (max-width: 768px) {
+  .answers {
+    grid-template-columns: 1fr;
+  }
+}
