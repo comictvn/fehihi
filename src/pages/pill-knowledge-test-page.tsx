@@ -1,8 +1,8 @@
 import { GetStaticPropsContext } from 'next';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
-import PillKnowledgeTestPage from '@components/pages/PillKnowledgeTestPage';
+import PillKnowledgeTestPage from 'src/components/pages/PillKnowledgeTestPage';
 
-export async function getStaticProps(context: GetStaticPropsContext) {
+export const getStaticProps = async (context: GetStaticPropsContext) => {
   const { locale = 'en' } = context;
   return {
     props: {

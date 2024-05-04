@@ -1,7 +1,7 @@
 import React from 'react';
-import ProgressBar from '../../atoms/ProgressBar';
-import QuestionBox from '../../atoms/QuestionBox';
-import AnswerButtonsGroup from '../../molecules/AnswerButtonsGroup';
+import ProgressBar from '@components/atoms/ProgressBar';
+import QuestionBox from '@components/atoms/QuestionBox';
+import AnswerButtonsGroup from '@components/molecules/AnswerButtonsGroup';
 import styles from './index.module.css';
 
 interface PillKnowledgeTestPageProps {
