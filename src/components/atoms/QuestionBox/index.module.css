@@ -1,0 +1,12 @@
+.QuestionBox {
+  background-color: #F0F4FF;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.QuestionText {
+  margin: 0;
+  color: #333;
+  font-size: 16px;
+}

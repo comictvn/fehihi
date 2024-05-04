@@ -1,0 +1,18 @@
+.DiagramPlaceholder {
+  background-color: #FFD3B6;
+  padding: 16px;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.DiagramText {
+  margin: 0;
+  color: #333;
+  font-size: 16px;
+}
+
+.DiagramSubtext {
+  margin: 0;
+  color: #333;
+  font-size: 12px;
+}
