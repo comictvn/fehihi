@@ -1,0 +1,11 @@
+.ProgressBarContainer {
+  height: 4px;
+  background-color: #FFD3B6;
+  margin-bottom: 24px;
+}
+
+.ProgressBar {
+  width: 5%;
+  height: 100%;
+  background-color: #FFA26B;
+}

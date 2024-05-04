@@ -1,0 +1,13 @@
+.pageContainer {
+  font-family: 'Arial', sans-serif;
+  padding: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 768px) {
+  .pageContainer {
+    padding: 8px;
+  }
+}
