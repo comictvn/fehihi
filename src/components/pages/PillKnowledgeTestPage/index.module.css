@@ -1,0 +1,29 @@
+.pageContainer {
+  font-family: 'Arial', sans-serif;
+  background-color: #fff;
+  color: #333;
+  padding: 16px;
+}
+
+.header {
+  margin-bottom: 32px;
+}
+
+.header h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #FA7268;
+  margin: 0;
+}
+
+.answerOptions {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+@media (max-width: 768px) {
+  .answerOptions {
+    grid-template-columns: 1fr;
+  }
+}
