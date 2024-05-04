@@ -1,9 +1,9 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 
-import ProgressBar from '@components/atoms/ProgressBar';
-import QuestionCard from '@components/atoms/QuestionCard';
-import DiagramInfo from '@components/atoms/DiagramInfo';
+import Header from '@components/atoms/Header';
+import QuestionCard from '@components/molecules/QuestionCard';
+import DiagramWithInfo from '@components/molecules/DiagramWithInfo';
 import AnswerOptionsGrid from '@components/molecules/AnswerOptionsGrid';
 
 import styles from './index.module.css';
@@ -11,7 +11,7 @@ import styles from './index.module.css';
 const PillKnowledgeTestPage: React.FC = () => {
   const { t } = useTranslation();
 
-  // Dummy data for demonstration purposes
+  // Dummy data for demonstration purposes, should be replaced with actual data fetching logic
   const progress = 25; // This should be dynamic based on the actual progress
   const questionTitle = t('pillKnowledgeTest.questionTitle');
   const questionContent = t('pillKnowledgeTest.questionContent');
@@ -23,11 +23,11 @@ const PillKnowledgeTestPage: React.FC = () => {
     t('pillKnowledgeTest.answer4'),
   ];
 
-  return (
+  return ( // The components used below should be replaced with actual project components
     <div className={styles.pageContainer}>
-      <ProgressBar progress={progress} />
+      <Header onBackClick={() => {}} pageIndicator="1/20" />
       <QuestionCard title={questionTitle} content={questionContent} />
-      <DiagramInfo text={diagramInfoText} />
+      <DiagramWithInfo text={diagramInfoText} ratio="16:9" />
       <AnswerOptionsGrid options={answerOptions} />
     </div>
   );
