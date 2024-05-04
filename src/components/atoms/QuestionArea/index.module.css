@@ -1,0 +1,24 @@
+.container {
+  margin-bottom: 32px;
+}
+
+.questionBox {
+  background-color: #E1F5FE;
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 8px;
+}
+
+.diagramLabel {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 16px;
+}
+
+.diagram {
+  background-color: #F5F5F5;
+  aspect-ratio: 16 / 9;
+  border-radius: 10px;
+  padding-top: 56.25%;
+  width: 100%;
+}
