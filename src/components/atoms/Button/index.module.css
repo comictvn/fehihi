@@ -1,4 +1,5 @@
 @layer button {
+  /* Customization for FAQPage button style */
   .link_tag {
     color: inherit;
     text-decoration: none;

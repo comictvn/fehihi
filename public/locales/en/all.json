@@ -1,27 +1,17 @@
 {
-  "common": {
-    "loading": "Loading...",
-    "go_to_home": "Go to home",
-    "menu": {
-      "home": "Home",
-      "about": "About",
-      "contact_us": "Contact us",
-      "news": "News"
-    }
-  },
-  "example": {
-    "login": "Login",
-    "logout": "Logout",
-    "next": "Next",
-    "login_success": "Login success!",
-    "logout_success": "Logout success!"
-  },
-  "404": {
-    "title": "Page Not Found",
-    "description": "Description about page not found"
-  },
-  "500": {
-    "title": "System Error",
-    "description": "Description about system error"
+  "faq": {
+    "search_placeholder": "What kind of problems should be stopped?",
+    "question1": "What happens if improper listings continue for more than two weeks?",
+    "answer1": "If improper listings continue for more than two weeks, it may indicate a serious issue that needs to be addressed.",
+    "question2": "What does it mean if menstrual bleeding becomes heavy?",
+    "answer2": "Heavy menstrual bleeding can be a sign of various conditions and should be evaluated by a healthcare provider.",
+    "question3": "What does pain in just one leg indicate?",
+    "answer3": "Pain in just one leg could be a symptom of a serious condition such as deep vein thrombosis and should be checked immediately.",
+    "question4": "Is slight pain normal?",
+    "answer4": "Slight pain can be normal, but if it persists or worsens, it's important to seek medical advice.",
+    "info1": "Mild pain and spotting are not a concern during hormone injections.",
+    "info2": "Most people will have the correct experience after about three cycles.",
+    "info3": "If you experience severe pain, stop the treatment and consult a medical institution immediately.",
+    "close_button": "Close"
   }
 }
