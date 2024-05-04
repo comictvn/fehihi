@@ -1,0 +1,18 @@
+.pageContainer {
+  font-family: 'Arial', sans-serif;
+  background-color: #fff;
+  padding: 16px;
+}
+
+.answerButtons {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+/* Add responsive styles for smaller screens */
+@media (max-width: 600px) {
+  .answerButtons {
+    grid-template-columns: 1fr;
+  }
+}
