@@ -1,0 +1,11 @@
+.questionBox {
+  background-color: #F0F4F8;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.questionBox p {
+  font-size: 16px;
+  color: #333;
+}
