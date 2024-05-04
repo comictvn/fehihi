@@ -23,5 +23,14 @@
   "500": {
     "title": "System Error",
     "description": "Description about system error"
+  },
+  "pill_knowledge_test": {
+    "title": "Pill Knowledge Test",
+    "subtitle": "Test your knowledge with our quiz",
+    "character": "Character",
+    "correct_answer": "The correct answer is 3 to 6 months.",
+    "additional_info": "The effects of the pill are not 'daily' but 'per cycle'.",
+    "more_info": "While there is no immediate effect, the pill works by regulating hormonal fluctuations.",
+    "next_button": "Next"
   }
 }
