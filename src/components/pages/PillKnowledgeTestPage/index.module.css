@@ -1,0 +1,7 @@
+.pageContainer {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  padding: 16px;
+  max-width: 375px;
+  margin: auto;
+}
