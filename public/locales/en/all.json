@@ -1,6 +1,11 @@
 {
   "common": {
     "loading": "Loading...",
+    "back": "Back",
+    "progress": "{{current}}/{{total}}",
+    "answer": "Answer {{number}} text",
+    "question_content": "Enter the text of the test question here.",
+    "title": "Pill Knowledge Test",
     "go_to_home": "Go to home",
     "menu": {
       "home": "Home",

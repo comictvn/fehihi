@@ -1,0 +1,37 @@
+.questionCard {
+  background-color: #E8F4FF;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.titleSection {
+  background-color: #FEEFDD;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.contentSection {
+  background-color: #E8F4FF;
+}
+
+.content {
+  font-size: 16px;
+  margin: 0;
+}
+
+.diagramPlaceholder {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 16px;
+  background: #ccc; /* Placeholder style, update as needed */
+  padding: 56.25% 0 0 0; /* 16:9 Aspect Ratio */
+  position: relative;
+}
