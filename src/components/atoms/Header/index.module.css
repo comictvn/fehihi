@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.backButton {
+  background: none;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.backIcon {
+  width: 24px;
+  height: 24px;
+}
+
+.title {
+  font-size: 14px;
+  font-weight: bold;
+  color: #FF6B35;
+}
+
+.placeholder {
+  width: 24px;
+  height: 24px;
+}
