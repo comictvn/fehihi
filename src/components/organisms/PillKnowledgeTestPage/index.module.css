@@ -1,0 +1,36 @@
+.pillKnowledgeTestPage {
+  font-family: 'Arial', sans-serif;
+  background-color: #fff;
+  color: #333;
+  padding: 16px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.progress {
+  font-size: 14px;
+  color: #888;
+}
+
+.answers {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.answers button {
+  flex: 1 1 auto;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  font-size: 14px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1);
+}
