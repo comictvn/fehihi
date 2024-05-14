@@ -23,5 +23,31 @@
   "500": {
     "title": "System Error",
     "description": "Description about system error"
+  },
+  "ResultPage": {
+    "menuIcon": "Menu Icon",
+    "closeIcon": "Close Icon",
+    "complete": "Complete",
+    "wellDone": "おつかれさまでした！",
+    "badge": "Badge",
+    "pillKnowledgeLevel": "ピルの知識レベル",
+    "gold": "Gold",
+    "firstTip": "まずは、正しい服用方法だけでも<br>マスターしておきましょう。",
+    "secondTip": "分からないことは自分で判断せず、<br>遠慮なく医師に確認しましょう。",
+    "reviewTestResults": "テスト結果を振り返る",
+    "points": "点",
+    "score": "Score"
+  },
+  "shared_components": {
+    "Button": {
+      "reviewButton": "Review Test Results"
+    },
+    "Modal": {
+      "overlay": "Overlay",
+      "modal": "Modal",
+      "modalTop": "Modal Top",
+      "modalDefault": "Modal Default",
+      "modalCenter": "Modal Center"
+    }
   }
 }

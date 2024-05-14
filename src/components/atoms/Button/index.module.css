@@ -48,6 +48,12 @@
     background: transparent;
     box-shadow: none;
   }
+
+  .reviewButton {
+    background-color: rgba(29, 22, 23, 0.1);
+    border-radius: 60px;
+    padding: 20px 40px;
+  }
 }
 
 .primary:hover,
