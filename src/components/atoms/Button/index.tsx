@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react'
+React, { useMemo } from 'react'
 
 import clsx from 'clsx'
 
@@ -6,7 +6,7 @@ import styles from './index.module.css'
 
 export interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   linkTo?: string
-  buttonType?: 'link' | 'text' | 'ghost' | 'default' | 'primary' | 'dashed'
+  buttonType?: 'link' | 'text' | 'ghost' | 'default' | 'primary' | 'dashed' | 'reviewButton'
 }
 
 const Button = React.forwardRef<HTMLButtonElement, ButtonProps>((props: ButtonProps, ref) => {

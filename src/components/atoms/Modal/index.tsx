@@ -1,4 +1,5 @@
 import React from 'react'
+import { useTranslation } from 'next-i18next'
 import ReactModal from 'react-modal'
 import clsx from 'clsx'
 
@@ -32,6 +33,7 @@ type ModalState = {
 export class ModalComponent extends React.PureComponent<ModalProps, ModalState> {
   constructor(props: ModalProps) {
     super(props)
+    this.useTranslation = useTranslation
     this.state = DEFAULT_STATES
   }
 

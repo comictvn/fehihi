@@ -1,6 +1,7 @@
 .Overlay {
   background-color: rgba(29, 37, 49, 0.7);
   bottom: 0;
+  display: flex;
   left: 0;
   position: fixed;
   right: 0;
