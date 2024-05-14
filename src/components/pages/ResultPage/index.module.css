@@ -1,0 +1,92 @@
+.pageContainer {
+  background-color: #FFF0E0;
+  width: 100%;
+  min-height: 100vh;
+  font-family: 'Hiragino Kaku Gothic ProN', 'Meiryo', sans-serif;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  color: #1D1617;
+  font-size: 32px;
+  margin: 16px 0 8px;
+}
+
+.description {
+  color: #1D1617;
+  font-size: 16px;
+  margin-bottom: 32px;
+}
+
+.card {
+  background-color: #DEBE7C;
+  border-radius: 20px;
+  padding: 32px;
+  text-align: center;
+  width: 80%;
+  max-width: 300px;
+}
+
+.badgeImage {
+  width: 80px;
+  height: 80px;
+}
+
+.badgeText {
+  color: #FFF;
+  margin-top: 24px;
+}
+
+.badgeTitle {
+  font-size: 12px;
+  margin: 0;
+}
+
+.badgeLevel {
+  font-size: 36px;
+  margin: 8px 0;
+}
+
+.cardDescription {
+  color: #FFF;
+  font-size: 14px;
+  line-height: 21px;
+  margin: 16px 0;
+}
+
+.reviewButton {
+  background-color: rgba(29, 22, 23, 0.1);
+  border-radius: 60px;
+  padding: 12px 24px;
+  margin-top: 24px;
+  cursor: pointer;
+}
+
+.scoreContainer {
+  color: #CBAD72;
+  font-size: 48px;
+  margin-top: 32px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.score {
+  color: #1D1617;
+  font-size: 24px;
+  margin-left: 4px;
+}
+
+.scoreDivider {
+  color: #1D1617;
+  font-size: 24px;
+  margin: 0 8px;
+}
+
+.scoreTotal {
+  color: #1D1617;
+  font-size: 24px;
+}
