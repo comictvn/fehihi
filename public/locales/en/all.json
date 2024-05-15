@@ -23,5 +23,18 @@
   "500": {
     "title": "System Error",
     "description": "Description about system error"
+  },
+  "reflectionPage": {
+    "header": "REFLECTION",
+    "title": "Reflection on the test",
+    "questionLabel": "Q",
+    "question": "What is the correct timing to start taking the first sheet?",
+    "option1": "If there is bleeding at menarche, start taking it as soon as possible.",
+    "option2": "When the usual amount of bleeding starts, the ideal is to start taking it at the usual time.",
+    "answerLabel": "A",
+    "correctAnswer": "The correct answer is",
+    "answerExplanation": "When the usual amount of bleeding starts, the ideal is to start taking it at the usual time. The first sheet is up to a specific day, and from the second sheet onwards, start taking it after finishing the previous sheet. Set an alarm to be able to take it at the same time every day.",
+    "backButton": "Back",
+    "mascotText": "WOW!!"
   }
 }
