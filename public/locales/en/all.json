@@ -23,5 +23,15 @@
   "500": {
     "title": "System Error",
     "description": "Description about system error"
+  },
+  "FAQItem": {
+    "indicatorAlt": "Indicator",
+    "arrowAlt": "Arrow"
+  },
+  "FAQList": {
+    "timing_of_starting": "Timing of starting",
+    "how_to_take": "How to take",
+    "title": "Frequently Asked Questions",
+    "description": "Here you can find answers to the most common questions."
   }
 }
