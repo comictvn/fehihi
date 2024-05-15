@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 12px;
+  width: 311px;
+}
+
+.indicator {
+  width: 20px;
+  height: 20px;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.number {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 18px;
+  color: #1D1617;
+}
+
+.question {
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 15px;
+  color: #1D1617;
+}
+
+.arrow {
+  padding: 5px;
+  background-color: rgba(255, 123, 55, 0.1);
+  border-radius: 24px;
+}
