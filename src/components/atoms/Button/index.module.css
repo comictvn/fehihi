@@ -1,4 +1,7 @@
 @layer button {
+  .fullWidth {
+    width: 100%;
+  }
   .link_tag {
     color: inherit;
     text-decoration: none;
